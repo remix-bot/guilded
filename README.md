@@ -1,2 +1,2 @@
-# guilded
+# Guilded
 Coming soon...
